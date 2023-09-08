@@ -8,7 +8,7 @@
 
 <p align="center">
 <ul align = "center">
-<li>🌱 I’m currently learning <b>C++ and JAVA.</b>
+<li>🌱 I’m currently learning <b>MERN</b>
 <li> 📫 Reach me at <a href="mailto:info@kogentindia.com"> <b>abhinavaditya162@gmail.com</b></a>
 </ul>
 </p>
