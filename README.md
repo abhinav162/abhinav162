@@ -26,3 +26,5 @@
 
 <!-- <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav162&theme=vue-dark&hide_border=true&border_radius=14&background=2e3440" alt="abhinav162" /></p>
  -->
+
+ [![An image of @abhinav162's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinav162)](https://holopin.io/@abhinav162)
