@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <!-- <img src="https://user-images.githubusercontent.com/90970567/230854929-b6d2ff4a-daf1-46a5-9ac1-ab554313a749.png" alt="Abhinav Aditya" />  -->
-<h3 align="center">A CSE Student</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinav162&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav162" /> </p>
 
